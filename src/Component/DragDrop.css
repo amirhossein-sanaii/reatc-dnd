@@ -1,0 +1,10 @@
+.menu{
+    display: inline-flex;
+    text-align: center;
+    margin-top: 50px;
+  }
+  .filter{
+    padding: 10px;
+    background-color: aqua;
+    margin: 10px;
+  }
